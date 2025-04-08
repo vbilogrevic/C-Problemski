@@ -1,3 +1,3 @@
 # C-Problemski
 
-asd
+Statistička analiza podataka
