@@ -1,3 +1,2 @@
-# C-Problemski
+# Statistička obrada mjerenja otpornika
 
-Statistička analiza podataka
